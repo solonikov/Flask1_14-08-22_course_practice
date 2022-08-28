@@ -1,0 +1,6 @@
+flask_venv/
+lessons 1-2/
+__pycache__/
+*.db
+.idea/
+.DS_Store
